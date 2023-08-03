@@ -4,7 +4,7 @@
 
 <p>:baby: I'm a boy's father :joystick: Classic game enthusiast :computer: Tech lover
 
-:books: My current moment, I'm studying to AWS Certified Solutions Architect – Associate
+:books: My current moment, I'm studying to AWS Certified SysOps Administrator – Associate
  
 :chart_with_upwards_trend: My goals are to dominate more stacks at DevOps culture, and gain more experience.</p>
   
